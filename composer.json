@@ -1,0 +1,13 @@
+{
+    "name": "rck6982/numbers-words",
+    "authors": [
+        {
+            "name": "Ricardo Sarapura",
+            "email": "ricky6982@gmail.com",
+        }
+    ],
+    "type": "library",
+    "autoload": {
+        "psr-0": { "RCK6982": "src/" }
+    }
+}
