@@ -1,5 +1,6 @@
 {
     "name": "rck6982/numbers2words",
+    "version": "0.1.2",
     "authors": [
         {
             "name": "Ricardo Sarapura",
@@ -7,6 +8,7 @@
         }
     ],
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-0": { "Rck6982": "src/" }
     }
