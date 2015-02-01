@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit bootstrap="./vendor/autoload.php" colors="true">
+    <testuites>
+        <testsuite name="Numbers2Words Tests">
+            <directory suffix="Test.php">./tests/Rck6982/</directory>
+        </testsuite>
+    </testuites>
+    <filter>
+        <whitelist>
+            <directory suffix=".php">./src/Rck6982/</directory>
+        </whitelist>
+    </filter>
+</phpunit>
