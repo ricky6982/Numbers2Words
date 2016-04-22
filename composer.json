@@ -1,5 +1,6 @@
 {
     "name": "rck6982/numbers2words",
+    "type": "library",
     "authors": [
         {
             "name": "Ricardo Sarapura",
